@@ -2,12 +2,12 @@ title: 代码风格指南
 description: 万宜常用代码编程规范与最佳实践
 theme: jekyll-theme-cayman
 
-site:
-  url: https://wanyeetech.github.io/test/
-  title: 代码风格指南
-  author:
-    url: https://github.com/WanyeeTech
-    name: 北京万宜科技
+# site:
+#   url: https://wanyeetech.github.io/test/
+#   title: 代码风格指南
+#   author:
+#     url: https://github.com/WanyeeTech
+#     name: 北京万宜科技
 
 show_downloads: false
 github:
