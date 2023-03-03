@@ -1,9 +1,7 @@
 ---
 layout: default
-title: HTML和CSS
+title: HTML风格指南
 ---
-
-# 通用
 
 ## 样式规则
 
@@ -24,18 +22,7 @@ title: HTML和CSS
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 ```
 
-```css
-/* 不推荐：省略协议 */
-@import '//fonts.googleapis.com/css?family=Open+Sans';
-
-/* 不推荐：使用 HTTP */
-@import 'http://fonts.googleapis.com/css?family=Open+Sans';.min.js"></script>
-
-/* 推荐 */
-@import 'https://fonts.googleapis.com/css?family=Open+Sans';
-```
-
-### 排版规则
+## 排版规则
 
 ### 缩进
 
@@ -48,12 +35,6 @@ title: HTML和CSS
   <li>Fantastic
   <li>Great
 </ul>
-```
-
-```css
-.example {
-  color: blue;
-}
 ```
 
 ### 大小写
@@ -70,14 +51,6 @@ title: HTML和CSS
 <img src="google.png" alt="谷歌"><img src = "google.png" alt = "Google" >  
 ```
 
-```css
-/* 不推荐 */
-color: #E5E5E5;
-
-/* 推荐 */
-color: #e5e5e5;
-```
-
 ### 行尾空格
 
 删除行尾白空格。
@@ -89,8 +62,3 @@ color: #e5e5e5;
 <!-- 推荐 -->
 <p>Yes please.
 ```
-
-# HTML
-
-
-# CSS
